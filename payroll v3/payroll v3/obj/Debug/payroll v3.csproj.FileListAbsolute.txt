@@ -1,0 +1,10 @@
+c:\users\zergj\documents\visual studio 2017\Projects\payroll v3\payroll v3\bin\Debug\Database7.accdb
+c:\users\zergj\documents\visual studio 2017\Projects\payroll v3\payroll v3\bin\Debug\payroll v3.exe.config
+c:\users\zergj\documents\visual studio 2017\Projects\payroll v3\payroll v3\bin\Debug\payroll v3.exe
+c:\users\zergj\documents\visual studio 2017\Projects\payroll v3\payroll v3\bin\Debug\payroll v3.pdb
+c:\users\zergj\documents\visual studio 2017\Projects\payroll v3\payroll v3\obj\Debug\payroll v3.csprojResolveAssemblyReference.cache
+c:\users\zergj\documents\visual studio 2017\Projects\payroll v3\payroll v3\obj\Debug\payroll_v3.Form1.resources
+c:\users\zergj\documents\visual studio 2017\Projects\payroll v3\payroll v3\obj\Debug\payroll_v3.Properties.Resources.resources
+c:\users\zergj\documents\visual studio 2017\Projects\payroll v3\payroll v3\obj\Debug\payroll v3.csproj.GenerateResource.Cache
+c:\users\zergj\documents\visual studio 2017\Projects\payroll v3\payroll v3\obj\Debug\payroll v3.exe
+c:\users\zergj\documents\visual studio 2017\Projects\payroll v3\payroll v3\obj\Debug\payroll v3.pdb
